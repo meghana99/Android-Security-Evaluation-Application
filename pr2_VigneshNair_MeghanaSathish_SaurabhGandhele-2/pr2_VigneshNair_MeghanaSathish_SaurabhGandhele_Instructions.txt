@@ -1,0 +1,16 @@
+To run the Android application, there are two approaches:
+
+A) Using the APK file.
+
+	1) Unzip the submitted pr2_VigneshNair_MeghanaSathish_SaurabhGandhele.zip
+	2) Locate the app-debug.apk file.
+	3) Install this file on your android device.
+	4) After successfull installation of the application, open/run it to evaluate the security of the device.
+	
+B) Import the Project into Android Studio.
+
+	1) Unzip the submitted pr2_VigneshNair_MeghanaSathish_SaurabhGandhele.zip.
+	2) Locate the folder/zip file VDA.
+	3) Map this entire project onto your Android Studio using the import project option.
+	4) After importing, clean and rebuild the project to make sure there are no errors in the gradle build and dependencies.
+	5) Run the application either using a virtual device, or by USB debugging your android phone.

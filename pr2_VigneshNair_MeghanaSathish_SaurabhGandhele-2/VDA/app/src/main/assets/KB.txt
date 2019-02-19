@@ -1,0 +1,16 @@
+DM => 0
+DM ^ SL => LOW
+US ^ LOW => 1
+DM ^ SL ^ LOW => 2
+VR ^ LOW => 3
+US ^ VR => MED
+US ^ VR ^ MED => 4
+LOW ^ MED => 5
+AV ^ MED => 6
+AV ^ LOW ^ MED => HIGH
+AV ^ LOW ^ MED ^ HIGH => 7
+DM
+SL
+US
+VR
+AV
